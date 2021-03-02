@@ -1,3 +1,4 @@
 orange is a fruit
 lemons are yellow
 limes are green
+apples can be green, red, yellow
