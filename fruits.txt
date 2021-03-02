@@ -2,3 +2,4 @@ orange is a fruit
 lemons are yellow
 limes are green
 berries can be many different colors.
+apples can be green, red, yellow
